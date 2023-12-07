@@ -5,7 +5,7 @@ for the Gapminder dataset. The new features that have been added are:
 * An action button (i.e. search button that will change the plot and table to 
 match the user input only when pressed)
 * Separate tabs for the plot and table
-* Buttons that allow you to download the data in your format of choice
+* Buttons that allow you to download the data in your format of choice and a search bar allowing you to further filter the data
 
 This application provides a plot showing the relationship between GDP per
 capita and life expectancy. The application also contains a table that shows
@@ -16,7 +16,7 @@ These interactive inputs also change the table and graph to correspond to the
 information selected.
 
 ### Contents
-Here you will find 2 files. The README file and the app.R file.
+In this folder you will find the app.R file which contains the code for the app development.
 
 ### Features
 * Separate tabs for the plot and table
