@@ -1,27 +1,14 @@
-## Assignment 3b - Shiny App Development 
-For this assignment, I created a Shiny App for the Gapminder dataset.
-This application provides a plot showing the relationship between GDP per
-capita and life expectancy. The application also contains a table that shows
-all variables for each entry. The sidebar contains two more features where you 
-are able to select a country from the drop down list and change the range of 
-years for which you would like to explore the data from. 
-These interactive inputs also change the table and graph to correspond to the 
-information selected.
+## Assignments 3b and 4b - Shiny App Development 
+In this repository you will find all contents for both assignments.
 
 ### Contents
-Here you will find 2 files. The README file and the app.R file.
+Here you will find 2 folders, one for each assignment. Both folders contain
+their own README documents and App.r files.
 
-### Features
-* Plot showing the relationship between life expectancy and GDP per capita.
-* Table listing all entries with all variables.
-* Side Panel that contains:
-  * Slide bar to choose the range of years you wish to see the data for.
-  * Drop down list to choose the country you wish to see the data for.
-  
-### Data
-The gapminder dataset can be used by installing and loading the gapminder 
-package in RStudio (gapminder library).
+### Tasks
+* Assignment 3b: Created a Shiny App and added some features to it.
+* Assignment 4b: Updated the Shiny App with 3 more features.
+
 
 ### Link
-Click [here](http://hitashab.shinyapps.io/STAT545_Assignment_3b_App) for a 
-running instance of the app.
+Please look at each individual assignment folder for the link to the running instance of the Shiny App (inside README documents).

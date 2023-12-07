@@ -1,0 +1,12 @@
+name: STAT545_Assignment_3b_App
+title: STAT545_Assignment_3b_App
+username: hitashab
+account: hitashab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10608993
+bundleId: 7960636
+url: https://hitashab.shinyapps.io/STAT545_Assignment_3b_App/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

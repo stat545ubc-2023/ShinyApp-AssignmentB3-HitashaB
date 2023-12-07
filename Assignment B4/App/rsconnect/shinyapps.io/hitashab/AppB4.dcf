@@ -1,0 +1,12 @@
+name: AppB4
+title: AppB4
+username: hitashab
+account: hitashab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10741985
+bundleId: 8019496
+url: https://hitashab.shinyapps.io/AppB4/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
